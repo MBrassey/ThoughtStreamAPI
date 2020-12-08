@@ -31,7 +31,7 @@ API for a social network web application where users can share their thoughts, r
 <h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://thoughtstreamapi-mbrassey.herokuapp.com/api/users/">webapplication</a></p></h6>
 
 > Video Demonstration
-> [<img src="assets/img/VideoPreview.png">](https://youtu.be/O3bJ6Sk2tvE)
+> [<img src="assets/img/VideoPreview.png">](https://youtu.be/rmDTVvdBvto)
 
 > Setup
 > [<img src="assets/img/Setup.gif">](https://thoughtstreamapi-mbrassey.herokuapp.com/api/users/)
