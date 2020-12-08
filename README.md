@@ -1,2 +1,59 @@
-# ThoughtStreamAPI
+## ThoughtStreamAPI
+
 API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list
+
+![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
+
+#### Issues
+
+- [x] [Initialize Application & Add User-Model](https://github.com/MBrassey/ThoughtStreamAPI/issues/1)
+- [x] [Handle Thoughts](https://github.com/MBrassey/ThoughtStreamAPI/issues/2)
+- [x] [Handle Reactions](https://github.com/MBrassey/ThoughtStreamAPI/issues/3)
+- [x] [Friends List](https://github.com/MBrassey/ThoughtStreamAPI/issues/4)
+- [x] [Generate Readme & Walkthrough Media](https://github.com/MBrassey/ThoughtStreamAPI/issues/5)
+
+
+#### Requirements
+
+    MongoDB Community Server
+    node
+    npm
+
+#### Installation
+
+    install [MongoDB](https://www.mongodb.com/download-center/community)
+    npm i
+
+
+#### Usage
+
+    npm run start
+    use insomnia to test routes
+
+<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://ThoughtStreamAPI-mbrassey.herokuapp.com/api/categories">webapplication</a></p></h6>
+
+> Video Demonstration
+> [<img src="img/VideoPreview.png">](https://youtu.be/O3bJ6Sk2tvE)
+
+> Setup
+> [<img src="img/Preview.gif">](https://ThoughtStreamAPI-mbrassey.herokuapp.com/api/categories)
+
+> Product Routes
+> [<img src="img/Preview1.gif">](https://ThoughtStreamAPI-mbrassey.herokuapp.com/api/categories)
+
+> Category Routes
+> [<img src="img/Preview2.gif">](https://ThoughtStreamAPI-mbrassey.herokuapp.com/api/categories)
+
+> Tag Routes
+> [<img src="img/Preview3.gif">](https://ThoughtStreamAPI-mbrassey.herokuapp.com/api/categories)
+
+#### Questions
+
+Contact me at [matt@brassey.io](mailto:matt@brassey.io) with any questions or comments.
+
+#### License
+
+`ThoughtStreamAPI` is published under the **CC0_1.0_Universal** license.
+
+> The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
+
