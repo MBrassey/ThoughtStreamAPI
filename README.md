@@ -36,7 +36,7 @@ API for a social network web application where users can share their thoughts, r
 > [<img src="assets/img/VideoPreview.png">](https://youtu.be/O3bJ6Sk2tvE)
 
 > Setup
-> [<img src="assets/img/Preview.gif">](https://thoughtstreamapi-mbrassey.herokuapp.com/api/users/)
+> [<img src="assets/img/Setup.gif">](https://thoughtstreamapi-mbrassey.herokuapp.com/api/users/)
 
 > User Routes
 > [<img src="assets/img/Users.gif">](https://thoughtstreamapi-mbrassey.herokuapp.com/api/users/)
