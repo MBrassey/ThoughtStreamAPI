@@ -92,7 +92,7 @@ const thoughtController = {
       .catch((err) => res.json(err));
   },
 
-  // delete reaction
+  // remove reaction
   removeReaction({ params }, res) {
     Thought.findOneAndUpdate(
       { _id: params.thoughtId },

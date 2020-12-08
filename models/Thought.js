@@ -10,7 +10,7 @@ const ReactionSchema = new Schema(
     reactionBody: {
       type: String,
       required: true,
-      maxlength: [280, "Ensure reactions is more than 280 characters"],
+      maxlength: [280, "Ensure reaction is less than 280 characters"],
     },
     username: {
       type: String,
@@ -26,6 +26,7 @@ const ReactionSchema = new Schema(
   {
     toJSON: {
       getters: true,
+      virtuals: true,
     },
   }
 );
@@ -53,6 +54,7 @@ const ThoughtSchema = new Schema(
   {
     toJSON: {
       getters: true,
+      virtuals: true
     },
     id: false,
   }
