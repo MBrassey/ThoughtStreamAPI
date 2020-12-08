@@ -30,22 +30,25 @@ API for a social network web application where users can share their thoughts, r
     npm run start
     use insomnia to test routes
 
-<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://ThoughtStreamAPI-mbrassey.herokuapp.com/api/categories">webapplication</a></p></h6>
+<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://thoughtstreamapi-mbrassey.herokuapp.com/api/users/">webapplication</a></p></h6>
 
 > Video Demonstration
-> [<img src="img/VideoPreview.png">](https://youtu.be/O3bJ6Sk2tvE)
+> [<img src="assets/img/VideoPreview.png">](https://youtu.be/O3bJ6Sk2tvE)
 
 > Setup
-> [<img src="img/Preview.gif">](https://ThoughtStreamAPI-mbrassey.herokuapp.com/api/categories)
+> [<img src="assets/img/Preview.gif">](https://thoughtstreamapi-mbrassey.herokuapp.com/api/users/)
 
-> Product Routes
-> [<img src="img/Preview1.gif">](https://ThoughtStreamAPI-mbrassey.herokuapp.com/api/categories)
+> User Routes
+> [<img src="assets/img/Users.gif">](https://thoughtstreamapi-mbrassey.herokuapp.com/api/users/)
 
-> Category Routes
-> [<img src="img/Preview2.gif">](https://ThoughtStreamAPI-mbrassey.herokuapp.com/api/categories)
+> Thought Routes
+> [<img src="assets/img/Thoughts.gif">](https://thoughtstreamapi-mbrassey.herokuapp.com/api/thoughts/)
 
-> Tag Routes
-> [<img src="img/Preview3.gif">](https://ThoughtStreamAPI-mbrassey.herokuapp.com/api/categories)
+> Reaction Routes
+> [<img src="assets/img/Reactions.gif">](https://thoughtstreamapi-mbrassey.herokuapp.com/api/users/)
+
+> Friend Routes
+> [<img src="assets/img/Friends.gif">](https://thoughtstreamapi-mbrassey.herokuapp.com/api/users/)
 
 #### Questions
 
