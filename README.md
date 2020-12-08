@@ -1,6 +1,6 @@
 ## ThoughtStreamAPI
 
-API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list
+API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This Node.js app integrates MongoDB, Mongoose ODM, and a robust Express.js API. The backend application is deployed live @Heroku utilizing MongoDB Atlas.
 
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
