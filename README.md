@@ -12,7 +12,6 @@ API for a social network web application where users can share their thoughts, r
 - [x] [Friends List](https://github.com/MBrassey/ThoughtStreamAPI/issues/4)
 - [x] [Generate Readme & Walkthrough Media](https://github.com/MBrassey/ThoughtStreamAPI/issues/5)
 
-
 #### Requirements
 
     MongoDB Community Server
@@ -21,9 +20,8 @@ API for a social network web application where users can share their thoughts, r
 
 #### Installation
 
-    install [MongoDB](https://www.mongodb.com/download-center/community)
+    install MongoDB
     npm i
-
 
 #### Usage
 
@@ -59,4 +57,3 @@ Contact me at [matt@brassey.io](mailto:matt@brassey.io) with any questions or co
 `ThoughtStreamAPI` is published under the **CC0_1.0_Universal** license.
 
 > The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
-
