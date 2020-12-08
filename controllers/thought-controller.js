@@ -15,7 +15,7 @@ const thoughtController = {
   getThoughtById({ params }, res) {
     Thought.findOne({ _id: params.id })
       .then((dbThoughtData) => {
-        // If no Thought is found, send 404
+        // If no thought is found, send 404
         if (!dbThoughtData) {
           res.status(404).json({ message: "No Thought found with this id!" });
           return;
